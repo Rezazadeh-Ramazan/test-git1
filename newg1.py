@@ -13,5 +13,11 @@ hig1 = 110
 hig2 = 130
 hig3 = 122
 hig4 = 114
+#####از این مرحله به بعد به گیت هاب وصل میخواهم بشوم
+# step 6: conecting to github and addeing wights
+wig1 = 21
+wig2 = 45
+wig3 = 30
+wig4 = 25
 
 
