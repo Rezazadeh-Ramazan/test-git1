@@ -1,16 +1,16 @@
 #my familly parameers
 #step1: i created new file 
 #step2:i added names
-dad = 'dlsos'
-mom = 'sora'
+dd = 'dlsos'
+mm = 'sora'
 bro1 = 'hadi'
 bro2 = 'saman'
 bro3 = 'hemat'
-sis1 = 'sozeh'
-sis2 = 'toran'
+ss1 = 'sozeh'
+ss2 = 'toran'
 #step3: i added their ages 
-dadag = 66
-momag = 56
+ddag = 66
+mmag = 56
 b1ag = 16
 b2ag = 26
 b3ag = 38
@@ -18,10 +18,11 @@ si1ag = 35
 si2ag = 31
 ###########coecting to github
 #step 7 : addeng wights
-dadwg = 90
-momwg = 85
+ddwg = 90
+mmwg = 85
 bro1wg = 65
 bro2wg = 85
 bro3wg = 90
-sis1wg = 75
-sis2wg = 64
+ss1wg = 75
+ss2wg = 64
+#step 8 : changed names for ...

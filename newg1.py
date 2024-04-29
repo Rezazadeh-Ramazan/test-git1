@@ -1,8 +1,8 @@
 # step 2: added name 
-name1 = 'rozi'
-name2 = 'hadi'
-name3 = 'hani'
-name4 = 'hama'
+name1 = 'roz'
+name2 = 'had'
+name3 = 'han'
+name4 = 'ham'
 # step 3 : add ther ages:
 ag1 = 4
 ag2 = 11
@@ -19,5 +19,6 @@ wig1 = 21
 wig2 = 45
 wig3 = 30
 wig4 = 25
+#step 8 : changed names for ....
 
 
