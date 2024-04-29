@@ -17,3 +17,11 @@ b3ag = 38
 si1ag = 35
 si2ag = 31
 ###########coecting to github
+#step 7 : addeng wights
+dadwg = 90
+momwg = 85
+bro1wg = 65
+bro2wg = 85
+bro3wg = 90
+sis1wg = 75
+sis2wg = 64
