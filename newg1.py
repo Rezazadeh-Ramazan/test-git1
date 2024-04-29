@@ -20,5 +20,8 @@ wig2 = 45
 wig3 = 30
 wig4 = 25
 #step 8 : changed names for ....
+# step 9 : I done this step in github github 
+ageMean = (ag1+ag2+ag3+ag4)/4
+print(ageMean)
 
 
