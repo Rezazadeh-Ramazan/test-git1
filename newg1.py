@@ -23,5 +23,9 @@ wig4 = 25
 # step 9 : I done this step in github github 
 ageMean = (ag1+ag2+ag3+ag4)/4
 print(ageMean)
-
-
+######################################
+import statistics as stati
+higList = [hig1,hig2,hig3,hig4]
+higMean = stati.mean(higList)
+print(higMean)
+###### چقدر ناباب بود

@@ -32,3 +32,7 @@ meage = 33
 mewigh = 68
 mehig = 174
 ##################
+ageList = [ddag,mmag,b1ag,b2ag,b3ag,si1ag,si2ag]
+import statistics as stati
+agemean = stati.mean(ageList)
+print(agemean)
