@@ -23,5 +23,9 @@ wig4 = 25
 # step 9 : I done this step in github github 
 ageMean = (ag1+ag2+ag3+ag4)/4
 print(ageMean)
-
-
+##################### 
+hadl = 19
+hanl = 19 
+mol = 19.9
+rozl =19.9
+##############

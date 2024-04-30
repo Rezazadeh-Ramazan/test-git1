@@ -31,4 +31,11 @@ menam = 'ramz'
 meage = 33
 mewigh = 68
 mehig = 174
-##################
+################## scors-loves
+dl = 20
+ml =20
+bl1 = 20 
+bl2 = 19.9
+bl3 = 19.99
+sl1 = 20
+sl2 = 19.9
