@@ -39,3 +39,8 @@ bl2 = 19.9
 bl3 = 19.99
 sl1 = 20
 sl2 = 19.9
+##################
+ageList = [ddag,mmag,b1ag,b2ag,b3ag,si1ag,si2ag]
+import statistics as stati
+agemean = stati.mean(ageList)
+print(agemean)
