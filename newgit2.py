@@ -26,3 +26,9 @@ bro3wg = 90
 ss1wg = 75
 ss2wg = 64
 #step 8 : changed names for ...
+#step 10: i aded me so 
+menam = 'ramz'
+meage = 33
+mewigh = 68
+mehig = 174
+##################
